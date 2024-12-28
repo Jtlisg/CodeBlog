@@ -5,6 +5,15 @@ body {
 
 }
 
+#cabecera {
+    font-weight: bold;
+    font-size: 1.3em;
+    background-color: #333;
+    color: #FFF;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
 #container {
     width: 70%;
     margin: 0 auto;
@@ -18,4 +27,11 @@ body {
     color: #333;
     margin: 0;
     padding: 0.2em;
+}
+
+#container p {
+    font-size: 1.3em;
+    color: #666;
+    margin: 0;
+    padding: 0.3em;
 }
